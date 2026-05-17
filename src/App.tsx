@@ -26,7 +26,7 @@ export default function App() {
             >
               <div className="relative w-12 h-12 rounded-2xl overflow-hidden border-2 border-sky-500/50 shadow-lg shadow-sky-500/20 transition-transform group-hover:scale-105 bg-slate-700 flex items-center justify-center">
                 <img 
-                  src="/DSC_0788.jpg" 
+                  src="./DSC_0788.jpg" 
                   alt="Frank Hsueh" 
                   className="w-full h-full object-cover"
                   onError={(e) => {

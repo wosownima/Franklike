@@ -30,7 +30,7 @@ export default function Home() {
           <div className="flex flex-col sm:flex-row items-center sm:items-start gap-6">
             <div className="w-24 h-24 rounded-2xl bg-slate-700 flex items-center justify-center border-2 border-sky-500/50 shadow-lg shadow-sky-500/20 overflow-hidden shrink-0">
               <img 
-                src="/DSC_0788.jpg" 
+                src="./DSC_0788.jpg" 
                 alt="Frank Hsueh" 
                 className="w-full h-full object-cover"
                 onError={(e) => {
